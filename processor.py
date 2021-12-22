@@ -44,8 +44,6 @@ class MainApplication(Frame):
         self.dest = ''
 
     def addLabelsToFrame(self):
-
-
         self.lbl_scale = tk.Label(root, text='Scale: ', state='disabled')
         self.lbl_format = tk.Label(root, text='Choose Format: ')
         self.lbl_src = tk.Label(root, text='SOURCE: ')
