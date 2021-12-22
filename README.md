@@ -1,6 +1,6 @@
 # Bulk Image Processor
 
-This application was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks for image recognition.
+This application was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks to perform image recognition.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/50201165/147006262-cfa5b21f-9fdb-4b8f-be64-3be091c994e9.png" />
