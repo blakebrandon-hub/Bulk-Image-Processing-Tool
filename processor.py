@@ -220,7 +220,6 @@ class MainApplication(Frame):
             scale = self.var_scale.get()
             try:
                 scale = float(scale)
-                print(scale)
             except:
                 messagebox.showinfo(
                     'Bulk Image Processor', 'Scale value must be floating point or integer.')
