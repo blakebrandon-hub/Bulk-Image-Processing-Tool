@@ -1,11 +1,18 @@
 # Bulk Image Processor
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/50201165/147006262-cfa5b21f-9fdb-4b8f-be64-3be091c994e9.png" />
-  <img src='https://user-images.githubusercontent.com/50201165/147007621-4037a5a7-405f-47de-a46e-7f7e29f08d00.png'/> 
-</p>
-
 This project was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks to perform image recognition.
+
+![new_gui](https://user-images.githubusercontent.com/50201165/147389122-52571873-297b-4247-8402-e9396529965a.png)
+
+<br>
+
+**Output Example:**
+
+![2](https://user-images.githubusercontent.com/50201165/147389252-66ea881d-445c-4c59-bbde-39598ff84b41.png)
+
+
+
+
 
 **What does this application do?**
 
