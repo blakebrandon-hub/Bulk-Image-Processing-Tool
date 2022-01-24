@@ -16,7 +16,7 @@ This project was designed with machine learning in-mind. Image processing is an 
 
 **What does this application do?**
 
-This application performs image processing techniques on bulk png and jpg images using the OpenCV Python library. Processed images are outputted seperately in a chosen destination folder.
+This application performs image processing techniques on bulk png and jpg image files. Processed images are outputted seperately in a chosen destination folder.
 
 **Installation**
 
