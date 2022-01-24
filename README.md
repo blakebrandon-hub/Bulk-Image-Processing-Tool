@@ -22,7 +22,7 @@ This application performs image processing techniques on bulk png and jpg image 
 
 1. Download project files
 
-2. Install requirements in 'requirements.txt' file
+2. Install requirements in 'requirements.txt'
 
 **How to run**
 
