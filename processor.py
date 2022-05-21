@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import *
 from tkinter.ttk import Frame
-from tkinter import filedialog, messagebox
 import cv2 as cv
 import numpy as np
 import os
