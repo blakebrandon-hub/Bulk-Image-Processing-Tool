@@ -1,6 +1,6 @@
-# Bulk Image Processing Tool GUI
+# Bulk Image Processing Tool
 
-This project was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks to perform image recognition.
+This project was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks to perform image recognition
 
 **What does this application do?**
 
