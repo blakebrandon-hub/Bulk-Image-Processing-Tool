@@ -1,9 +1,5 @@
 # Bulk Image Processing Tool
 
-This project was designed with machine learning in-mind. Image processing is an essential step in the creating of datasets that will be used to train neural networks to perform image recognition
-
-**What does this application do?**
-
 This application performs image processing techniques on bulk png and jpg image files. Processed images are outputted seperately in a chosen destination folder.
 
 ![new_gui](https://user-images.githubusercontent.com/50201165/147389122-52571873-297b-4247-8402-e9396529965a.png)
