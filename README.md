@@ -12,24 +12,3 @@ This application performs image processing techniques on bulk png and jpg image 
 
 
 
-
-
-
-
-**Installation**
-
-1. Download project files
-
-2. Install requirements in 'requirements.txt'
-
-**How to run**
-
-1. Run 'processor.py' with Python
-
-**How to use this project**
-
-1. Choose source
-2. Choose destination
-3. Select modifications
-4. Choose output format
-5. Click 'Create Images'
