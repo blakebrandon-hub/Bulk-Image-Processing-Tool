@@ -1,4 +1,4 @@
-# Bulk Image Processing Tool
+# Bulk Image Processor
 
 This application performs image processing techniques on bulk png and jpg image files. 
 
