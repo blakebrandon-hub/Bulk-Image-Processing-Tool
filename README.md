@@ -1,6 +1,6 @@
 # Bulk Image Processor
 
-This application performs image processing techniques on bulk png and jpg image files. 
+This application performs image processing techniques on bulk png or jpg image files. 
 
 ![new_gui](https://user-images.githubusercontent.com/50201165/147389122-52571873-297b-4247-8402-e9396529965a.png)
 
